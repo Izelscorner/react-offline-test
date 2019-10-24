@@ -1,6 +1,6 @@
 import React from 'react';
 import './energy-tile.css';
-import * as images from './images';
+// import * as images from './images';
 import GaugeChart from 'react-gauge-chart'
 
 interface Props {
@@ -11,7 +11,7 @@ interface Props {
 
 const EnergyTile: React.FC<Props> = (props: Props) => (
     <div className="tile-card center">
-        <img className="tile-img" src={images[props.fuel] ? images[props.fuel] : images.placeholder } /> 
+        {/* <img className="tile-img" src={images[props.fuel] ? images[props.fuel] : images.placeholder } />  */}
         <div className="tile-body">
             <label className="tile-label">{props.fuel}</label>
             <GaugeChart id={`gauge-chart-${props.fuel}-${props.index}`}
