@@ -1,0 +1,19 @@
+.tile-card {
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    max-width: 180px;
+}
+
+.tile-img {
+    width: 50%;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+}
+
+.tile-label {
+    text-transform: capitalize;
+}

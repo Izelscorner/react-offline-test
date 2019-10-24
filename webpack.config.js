@@ -11,7 +11,7 @@ module.exports = {
     target: 'web',
     entry: {
         app: [
-            './index.js'
+            './index.tsx'
         ],
     },
     output: {
@@ -21,14 +21,20 @@ module.exports = {
     },
     resolve: {
         mainFields: ['browser', 'module', 'main'],
-        extensions: ['.js', '.json', '.jsx']
+        extensions: ['.js', '.json', '.jsx', '.ts', '.tsx']
     },
     module: {
-        rules: [
-            {
+        rules: [{
                 test: /\.js(x?)$/,
                 exclude: /node_modules/,
                 use: 'babel-loader',
+            },
+            {
+                test: /\.ts(x?)$/,
+                exclude: /node_modules/,
+                use: [{
+                    loader: "ts-loader"
+                }]
             },
             {
                 test: /\.css$/,
@@ -40,7 +46,7 @@ module.exports = {
             {
                 test: /\.(png|jpg|gif)$/,
                 use: 'file-loader?name=img/[name]-[hash:6].[ext]',
-            },
+            }
         ],
     },
     plugins: [
