@@ -20,6 +20,10 @@ const mapTiles = (generationMix: Array<object>) => (
     )
 )
 
+const loader = () => <div className="loader center"></div>
+
+const error = ()  => <div className="error center">There has been an error while getting data.</div>
+
 const EnergyDistGrid: React.FC<Props> = (props: Props) => {
     const [generationMix, setGenerationMix] = useState([]);
 
@@ -42,10 +46,7 @@ const EnergyDistGrid: React.FC<Props> = (props: Props) => {
 
     return (
         <div className="row">
-            {   hasError ? <div className="error center">There has been an error while getting data.</div> 
-                : isLoading 
-                ? <div className="loader center"></div>
-                : mapTiles(generationMix)}
+            { isLoading ? loader() : hasError ? error() : mapTiles(generationMix)}
         </div>
     )
 }
