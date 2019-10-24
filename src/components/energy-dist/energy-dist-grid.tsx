@@ -30,11 +30,11 @@ const EnergyDistGrid: React.FC<Props> = (props: Props) => {
         async function fetchData() {
             try {
                 const result = await props.getData();
-                setIsLoading(false);
                 setGenerationMix(result.data.generationmix);
             } catch (error) {
-                setIsLoading(false);
                 setHasError(true);
+            } finally {
+                setIsLoading(false);
             }
         }
         fetchData();
@@ -42,7 +42,7 @@ const EnergyDistGrid: React.FC<Props> = (props: Props) => {
 
     return (
         <div className="row">
-            {   hasError ? <h1 className="error">There has been an error.</h1> 
+            {   hasError ? <div className="error center">There has been an error while getting data.</div> 
                 : isLoading 
                 ? <div className="loader center"></div>
                 : mapTiles(generationMix)}
