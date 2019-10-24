@@ -26,7 +26,6 @@ const error = ()  => <div className="error center">There has been an error while
 
 const EnergyDistGrid: React.FC<Props> = (props: Props) => {
     const [generationMix, setGenerationMix] = useState([]);
-
     const [isLoading, setIsLoading] = useState(true);
     const [hasError, setHasError] = useState(false);
 
