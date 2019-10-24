@@ -1,6 +1,7 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
 import EnergyTile from './energy-tile';
+import './energy-dist-grid.css';
 
 interface Energy {
     fuel: string;
@@ -41,9 +42,9 @@ const EnergyDistGrid: React.FC<Props> = (props: Props) => {
 
     return (
         <div className="row">
-            {   hasError ? <p className="error">There has been an error.</p> 
+            {   hasError ? <h1 className="error">There has been an error.</h1> 
                 : isLoading 
-                ? <p className="isLoading">Data is Loading...</p> 
+                ? <div className="loader center"></div>
                 : mapTiles(generationMix)}
         </div>
     )

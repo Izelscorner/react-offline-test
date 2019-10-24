@@ -51,7 +51,7 @@ describe("<EnergyDistGrid />", () => {
     await act(async () => {
       render(<EnergyDistGrid getData={fetchData} />, container);
     });
-    expect(container.querySelectorAll(".isLoading").length).toBe(0);
+    expect(container.querySelectorAll(".loader").length).toBe(0);
   });
 
   it("Error text after failed data fetch.", async () => {
