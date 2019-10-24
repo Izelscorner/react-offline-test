@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<EnergyTile /> matches snapshot 1`] = `
-"<div class=\\"tile-card center\\"><img class=\\"tile-img\\" src=\\"[object Object]\\">
+"<div class=\\"tile-card center\\">
   <div class=\\"tile-body\\"><label class=\\"tile-label\\">coal</label>
     <div id=\\"gauge-chart-coal-0\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
         <g transform=\\"translate(0, 0)\\">

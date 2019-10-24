@@ -26,10 +26,6 @@ describe("<EnergyTile />", () => {
     expect(pretty(container.innerHTML)).toMatchSnapshot();
   });
 
-  it("Image Appears", () => {
-    expect(container.querySelectorAll("img").length).toBe(1);
-  });
-
   it("Name Appears", () => {
     expect(container.querySelectorAll("label").length).toBe(1);
   });
