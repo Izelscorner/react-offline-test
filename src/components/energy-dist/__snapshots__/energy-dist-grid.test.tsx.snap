@@ -2,6 +2,7 @@
 
 exports[`<EnergyDistGrid /> matches snapshot 1`] = `
 "<div class=\\"row\\">
+  <div class=\\"time center\\">01:00:00 GMT+0100 (BST) - 01:30:00 GMT+0100 (BST)</div>
   <div class=\\"col-3\\">
     <div class=\\"tile-card center\\">
       <div class=\\"tile-body\\"><label class=\\"tile-label\\">biomass</label>

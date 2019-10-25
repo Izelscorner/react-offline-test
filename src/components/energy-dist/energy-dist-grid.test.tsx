@@ -6,6 +6,8 @@ import pretty from "pretty";
 
 describe("<EnergyDistGrid />", () => {
   const data = {
+    from: "2019-10-25T00:00Z", 
+    to: "2019-10-25T00:30Z",
     generationmix: [
       { fuel: "biomass", perc: 20 },
       { fuel: "nuclear", perc: 40 },
@@ -45,6 +47,13 @@ describe("<EnergyDistGrid />", () => {
       render(<EnergyDistGrid getData={fetchData} />, container);
     });
     expect(container.querySelectorAll(".col-3").length).toBe(3);
+  });
+
+  it("Check if time exist", async () => {
+    await act(async () => {
+      render(<EnergyDistGrid getData={fetchData} />, container);
+    });
+    expect(container.querySelectorAll(".time").length).toBe(1);
   });
 
   it("Loading text disappears after data request.", async () => {

@@ -3,6 +3,10 @@
     font-size: 1.4rem;
 }
 
+.time {
+    font-size: 0.7rem;
+}
+
 .loader {
     border: 16px solid #f3f3f3;
     /* Light grey */
