@@ -1,5 +1,6 @@
 import axios from 'axios';
 
+// Asynchronous fetch data from the API.
 async function fetchEnergyData() {
     try {
         const res = await axios.get(`https://api.carbonintensity.org.uk/generation`);
