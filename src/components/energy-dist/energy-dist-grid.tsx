@@ -22,29 +22,29 @@ const EnergyDistGrid: React.FC<Props> = (props: Props) => {
     const time = () => <div className="time center" key="time">{new Date(data.from).toTimeString()} - {new Date(data.to).toTimeString()}</div>
     const tiles = () => (
         data.generationmix.map((energy: Energy, index: number) =>
-            <div key={index} className="col-3">
+            <div key={`tile-${index}`} className="col-3">
                 <EnergyTile fuel={energy.fuel} index={index} percentage={energy.perc} />
             </div>
         )
     );
 
     useEffect(() => {
-            async function fetchData() {
-                try {
-                    const result = await props.getData();
-                    setData(result.data);
-                } catch (error) {
-                    setHasError(true);
-                } finally {
-                    setIsLoading(false);
-                }
+        async function fetchData() {
+            try {
+                const result = await props.getData();
+                setData(result.data);
+            } catch (error) {
+                setHasError(true);
+            } finally {
+                setIsLoading(false);
             }
-            fetchData();
-        }, []);
+        }
+        fetchData();
+    }, []);
 
     return (
         <div className="row">
-            {isLoading ? loader() : hasError ? error() : [time(),tiles()]}
+            {isLoading ? loader() : hasError ? error() : [time(), tiles()]}
         </div>
     )
 }
