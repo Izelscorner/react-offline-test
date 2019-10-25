@@ -20,7 +20,7 @@ const EnergyTile: React.FC<Props> = (props: Props) => (
                 cornerRadius={3}
                 textColor={'#000'}
                 needleColor="#000"
-                colors={["#FF5F6D", "#FFC371"]}
+                colors={["#FFC371", "#FF5F6D"]}
                 hideText={true}
                 percent={props.percentage / 100}
             />
