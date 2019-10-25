@@ -14,8 +14,8 @@ const EnergyTile: React.FC<Props> = (props: Props) => (
     <div className="tile-card center">
         <div className="tile-body">
             <label className="tile-label">{props.fuel}</label>
-            <GaugeChart id={props.uid}
-                nrOfLevels={3}
+            <GaugeChart id={`gauge-${props.uid}`}
+                nrOfLevels={100}
                 arcPadding={0}
                 cornerRadius={3}
                 textColor={'#000'}

@@ -6,17 +6,308 @@ exports[`<EnergyDistGrid /> matches snapshot 1`] = `
   <div class=\\"col-3\\">
     <div class=\\"tile-card center\\">
       <div class=\\"tile-body\\"><label class=\\"tile-label\\">biomass</label>
-        <div id=\\"uid1\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
+        <div id=\\"gauge-uid1\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
             <g transform=\\"translate(0, 0)\\">
               <g class=\\"doughnut\\" transform=\\"translate(0, 0)\\">
                 <g class=\\"arc\\">
-                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 95, 109);\\"></path>
-                </g>
-                <g class=\\"arc\\">
-                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 141, 104);\\"></path>
-                </g>
-                <g class=\\"arc\\">
                   <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 195, 113);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 194, 113);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 193, 113);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 192, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 191, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 190, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 189, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 188, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 187, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 186, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 185, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 184, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 182, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 181, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 180, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 179, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 178, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 177, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 176, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 175, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 174, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 173, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 172, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 171, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 170, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 168, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 167, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 166, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 165, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 164, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 163, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 162, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 161, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 160, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 159, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 157, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 156, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 155, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 154, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 153, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 152, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 151, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 150, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 148, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 147, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 146, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 145, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 144, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 143, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 142, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 140, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 139, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 138, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 137, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 136, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 135, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 133, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 132, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 131, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 130, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 129, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 128, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 126, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 125, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 124, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 123, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 122, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 120, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 119, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 118, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 117, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 116, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 114, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 113, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 112, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 111, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 110, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 108, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 107, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 106, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 105, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 104, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 102, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 101, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 100, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 99, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 97);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 95, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 95, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 95, 109);\\"></path>
                 </g>
               </g>
               <g class=\\"needle\\" transform=\\"translate(0, 0)\\">
@@ -32,17 +323,308 @@ exports[`<EnergyDistGrid /> matches snapshot 1`] = `
   <div class=\\"col-3\\">
     <div class=\\"tile-card center\\">
       <div class=\\"tile-body\\"><label class=\\"tile-label\\">nuclear</label>
-        <div id=\\"uid2\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
+        <div id=\\"gauge-uid2\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
             <g transform=\\"translate(0, 0)\\">
               <g class=\\"doughnut\\" transform=\\"translate(0, 0)\\">
                 <g class=\\"arc\\">
-                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 95, 109);\\"></path>
-                </g>
-                <g class=\\"arc\\">
-                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 141, 104);\\"></path>
-                </g>
-                <g class=\\"arc\\">
                   <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 195, 113);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 194, 113);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 193, 113);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 192, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 191, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 190, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 189, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 188, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 187, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 186, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 185, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 184, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 182, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 181, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 180, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 179, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 178, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 177, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 176, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 175, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 174, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 173, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 172, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 171, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 170, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 168, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 167, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 166, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 165, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 164, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 163, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 162, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 161, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 160, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 159, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 157, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 156, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 155, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 154, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 153, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 152, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 151, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 150, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 148, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 147, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 146, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 145, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 144, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 143, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 142, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 140, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 139, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 138, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 137, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 136, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 135, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 133, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 132, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 131, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 130, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 129, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 128, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 126, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 125, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 124, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 123, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 122, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 120, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 119, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 118, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 117, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 116, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 114, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 113, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 112, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 111, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 110, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 108, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 107, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 106, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 105, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 104, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 102, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 101, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 100, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 99, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 97);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 95, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 95, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 95, 109);\\"></path>
                 </g>
               </g>
               <g class=\\"needle\\" transform=\\"translate(0, 0)\\">
@@ -58,17 +640,308 @@ exports[`<EnergyDistGrid /> matches snapshot 1`] = `
   <div class=\\"col-3\\">
     <div class=\\"tile-card center\\">
       <div class=\\"tile-body\\"><label class=\\"tile-label\\">wind</label>
-        <div id=\\"uid3\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
+        <div id=\\"gauge-uid3\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
             <g transform=\\"translate(0, 0)\\">
               <g class=\\"doughnut\\" transform=\\"translate(0, 0)\\">
                 <g class=\\"arc\\">
-                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 95, 109);\\"></path>
-                </g>
-                <g class=\\"arc\\">
-                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 141, 104);\\"></path>
-                </g>
-                <g class=\\"arc\\">
                   <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 195, 113);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 194, 113);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 193, 113);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 192, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 191, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 190, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 189, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 188, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 187, 112);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 186, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 185, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 184, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 182, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 181, 111);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 180, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 179, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 178, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 177, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 176, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 175, 110);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 174, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 173, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 172, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 171, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 170, 109);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 168, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 167, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 166, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 165, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 164, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 163, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 162, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 161, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 160, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 159, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 157, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 156, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 155, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 154, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 153, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 152, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 151, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 150, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 148, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 147, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 146, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 145, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 144, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 143, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 142, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 140, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 139, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 138, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 137, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 136, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 135, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 133, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 132, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 131, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 130, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 129, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 128, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 126, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 125, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 124, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 123, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 122, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 120, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 119, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 118, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 117, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 116, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 114, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 113, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 112, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 111, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 110, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 108, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 107, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 106, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 105, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 104, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 102, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 101, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 100, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 99, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 97);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 98);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 99);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 100);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 97, 101);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 102);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 103);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 104);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 105);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 96, 106);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 95, 107);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 95, 108);\\"></path>
+                </g>
+                <g class=\\"arc\\">
+                  <path d=\\"M0,0Z\\" style=\\"fill: rgb(255, 95, 109);\\"></path>
                 </g>
               </g>
               <g class=\\"needle\\" transform=\\"translate(0, 0)\\">
