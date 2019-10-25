@@ -28,9 +28,11 @@ describe("<EnergyTile />", () => {
 
   it("Name Appears", () => {
     expect(container.querySelectorAll("label").length).toBe(1);
+    expect(container.querySelector("label").textContent).toBe('coal');
   });
 
   it("Percentage Appears", async () => {
     expect(container.querySelectorAll("h5").length).toBe(1);
+    expect(container.querySelector("h5").textContent).toBe('10%');
   });
 });

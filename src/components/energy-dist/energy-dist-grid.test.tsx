@@ -47,6 +47,7 @@ describe("<EnergyDistGrid />", () => {
       render(<EnergyDistGrid getData={fetchData} />, container);
     });
     expect(container.querySelectorAll(".col-3").length).toBe(3);
+    expect(container.querySelectorAll(".col-3")[0].firstChild.textContent).toBe('biomass20%');
   });
 
   it("Check if time exist", async () => {
