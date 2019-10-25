@@ -1,6 +1,6 @@
 # React Offline Test
 
-## Example usage of Energy Distibutiin Grid Component 
+## Example usage of Energy Distribution Grid Component 
 
 ```
 <EnergyDistGrid getData={fetchEnergyData} />
@@ -42,8 +42,8 @@ to test the application
 
 ## Some Notes
 
-- Changed jsx file type to tsx to use typescript, applicatio is written in typescript.  
+- Changed jsx file type to tsx to use typescript, application is written in typescript.  
 - Used hooks for setting state and componentDidMount cycle , this can also be achived with class components.  
-- For testing added react-testing-libray with Jest.  
-- For charting used very simple gauge chart library ("react-gauge-chart).  
+- For testing added react-testing-libray accompanied with Jest.  
+- For charting used very simple gauge chart library ("react-gauge-chart") Derived from d3.   
 
