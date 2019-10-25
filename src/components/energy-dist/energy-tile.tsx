@@ -6,7 +6,7 @@ import GaugeChart from 'react-gauge-chart'
 interface Props {
     fuel: string;
     percentage: number;
-    index: number;
+    uid: string;
 }
 
 // Component
@@ -14,7 +14,7 @@ const EnergyTile: React.FC<Props> = (props: Props) => (
     <div className="tile-card center">
         <div className="tile-body">
             <label className="tile-label">{props.fuel}</label>
-            <GaugeChart id={`gauge-chart-${props.fuel}-${props.index}`}
+            <GaugeChart id={props.uid}
                 nrOfLevels={3}
                 arcPadding={0}
                 cornerRadius={3}

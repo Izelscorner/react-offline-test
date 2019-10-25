@@ -3,6 +3,7 @@ import { render, unmountComponentAtNode } from "react-dom";
 import { act } from "react-dom/test-utils";
 import EnergyTile from "./energy-tile";
 import pretty from "pretty";
+import {uid} from 'react-uid';
 
 describe("<EnergyTile />", () => {
   let container = null;
@@ -11,7 +12,7 @@ describe("<EnergyTile />", () => {
     container = document.createElement("div");
     document.body.appendChild(container);
     act(() => {
-      render(<EnergyTile fuel={"coal"} percentage={10} index={0} />, container);
+      render(<EnergyTile fuel={"coal"} percentage={10} uid={uid('5')} />, container);
     });
   });
 

@@ -1,5 +1,6 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
+import {uid} from 'react-uid';
 import EnergyTile from './energy-tile';
 import './energy-dist-grid.css';
 
@@ -22,11 +23,11 @@ const EnergyDistGrid: React.FC<Props> = (props: Props) => {
     // Helper method Elements
     const loader = () => <div className="loader center"></div>
     const error = () => <div className="error center">There has been an error while getting data.</div>
-    const time = () => <div className="time center" key="time">{new Date(data.from).toTimeString()} - {new Date(data.to).toTimeString()}</div>
+    const time = () => <div className="time center" key={uid('time')}>{new Date(data.from).toTimeString()} - {new Date(data.to).toTimeString()}</div>
     const tiles = () => (
         data.generationmix.map((energy: Energy, index: number) =>
-            <div key={`tile-${index}`} className="col-3">
-                <EnergyTile fuel={energy.fuel} index={index} percentage={energy.perc} />
+            <div key={uid(energy)} className="col-3">
+                <EnergyTile fuel={energy.fuel} uid={uid(energy)} percentage={energy.perc} />
             </div>
         )
     );

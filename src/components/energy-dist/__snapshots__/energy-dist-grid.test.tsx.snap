@@ -6,7 +6,7 @@ exports[`<EnergyDistGrid /> matches snapshot 1`] = `
   <div class=\\"col-3\\">
     <div class=\\"tile-card center\\">
       <div class=\\"tile-body\\"><label class=\\"tile-label\\">biomass</label>
-        <div id=\\"gauge-chart-biomass-0\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
+        <div id=\\"uid1\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
             <g transform=\\"translate(0, 0)\\">
               <g class=\\"doughnut\\" transform=\\"translate(0, 0)\\">
                 <g class=\\"arc\\">
@@ -32,7 +32,7 @@ exports[`<EnergyDistGrid /> matches snapshot 1`] = `
   <div class=\\"col-3\\">
     <div class=\\"tile-card center\\">
       <div class=\\"tile-body\\"><label class=\\"tile-label\\">nuclear</label>
-        <div id=\\"gauge-chart-nuclear-1\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
+        <div id=\\"uid2\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
             <g transform=\\"translate(0, 0)\\">
               <g class=\\"doughnut\\" transform=\\"translate(0, 0)\\">
                 <g class=\\"arc\\">
@@ -58,7 +58,7 @@ exports[`<EnergyDistGrid /> matches snapshot 1`] = `
   <div class=\\"col-3\\">
     <div class=\\"tile-card center\\">
       <div class=\\"tile-body\\"><label class=\\"tile-label\\">wind</label>
-        <div id=\\"gauge-chart-wind-2\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
+        <div id=\\"uid3\\" style=\\"width: 100%;\\"><svg width=\\"0\\" height=\\"0\\">
             <g transform=\\"translate(0, 0)\\">
               <g class=\\"doughnut\\" transform=\\"translate(0, 0)\\">
                 <g class=\\"arc\\">
