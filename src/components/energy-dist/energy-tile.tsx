@@ -1,6 +1,5 @@
 import React from 'react';
 import './energy-tile.css';
-// import * as images from './images';
 import GaugeChart from 'react-gauge-chart'
 
 interface Props {
@@ -27,6 +26,5 @@ const EnergyTile: React.FC<Props> = (props: Props) => (
         </div>
     </div>
 );
-
 
 export default EnergyTile;
