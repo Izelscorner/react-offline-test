@@ -2,12 +2,14 @@ import React from 'react';
 import './energy-tile.css';
 import GaugeChart from 'react-gauge-chart'
 
+// Define types.
 interface Props {
     fuel: string;
     percentage: number;
     index: number;
 }
 
+// Component
 const EnergyTile: React.FC<Props> = (props: Props) => (
     <div className="tile-card center">
         <div className="tile-body">

@@ -3,20 +3,23 @@ import { useState, useEffect } from 'react';
 import EnergyTile from './energy-tile';
 import './energy-dist-grid.css';
 
+// Define types.
 interface Energy {
     fuel: string;
     perc: number;
 }
-
 interface Props {
     getData: () => any
 }
 
+// Component
 const EnergyDistGrid: React.FC<Props> = (props: Props) => {
+    // Configure state
     const [data, setData] = useState(null);
     const [isLoading, setIsLoading] = useState(true);
     const [hasError, setHasError] = useState(false);
-
+    
+    // Helper method Elements
     const loader = () => <div className="loader center"></div>
     const error = () => <div className="error center">There has been an error while getting data.</div>
     const time = () => <div className="time center" key="time">{new Date(data.from).toTimeString()} - {new Date(data.to).toTimeString()}</div>
@@ -27,7 +30,8 @@ const EnergyDistGrid: React.FC<Props> = (props: Props) => {
             </div>
         )
     );
-
+    
+    // Configure componentDidMount
     useEffect(() => {
         async function fetchData() {
             try {
